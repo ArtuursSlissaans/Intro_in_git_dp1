@@ -8,7 +8,7 @@ git status                         # repozitorijas status
 
 git add .                          # sagatovot repozitoriju kommitam
 
-git commit -m "paveiktais darbs"   # versijas izvade
+git commit -m "paveiktais darbs"   # versijas izvad
 
 git push origin main               # augšupielādēt repozitoriju
 
@@ -17,5 +17,7 @@ git config user.email "you@example.com"
 
 git config user.name "Your Name"
 
+## Lbadien
 
+### kā jums iet?
 ```
